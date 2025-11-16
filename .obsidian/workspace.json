@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Phishing-Analysis/1. Introduction to Phishing.md",
+                "file": "03-Security-Operations-Fundamentals/8. Common Threats and Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction to Phishing"
+              "title": "8. Common Threats and Attacks"
             }
           },
           {
@@ -228,7 +228,6 @@
   },
   "active": "f4794626538a6d7c",
   "lastOpenFiles": [
-    "03-Security-Operations-Fundamentals/8. Common Threats and Attacks.md",
     "03-Security-Operations-Fundamentals/7. SOC Tools.md",
     "03-Security-Operations-Fundamentals/6. SOC Metrics.md",
     "03-Security-Operations-Fundamentals/5. Incident and Event Management (IEM).md",
@@ -236,7 +235,12 @@
     "03-Security-Operations-Fundamentals/3. Information Security Refresher.md",
     "03-Security-Operations-Fundamentals/2. A Day in the Life of a SOC Analyst.md",
     "03-Security-Operations-Fundamentals/1. The SOC and Its Roles.md",
+    "02-Lab Setup/Installing Ubuntu.md",
+    "02-Lab Setup/Installing OS VM.md",
+    "02-Lab Setup/Configuring Windows.md",
+    "02-Lab Setup/Configuring Ubuntu.md",
     "04-Phishing-Analysis/1. Introduction to Phishing.md",
+    "03-Security-Operations-Fundamentals/8. Common Threats and Attacks.md",
     "04-Phishing-Analysis",
     "Images/3.17-common-threats.png",
     "Images/Screenshot 2025-11-14 121146.png",
@@ -250,10 +254,7 @@
     "Images/Screenshot 2025-11-14 113817.png",
     "Images/3.3-Day-In-Life-Of-SOC.png.~tmp",
     "README.md",
-    "02-Lab Setup/Configuring Windows.md",
-    "02-Lab Setup/Installing OS VM.md",
     "Untitled.md",
-    "02-Lab Setup/Configuring Ubuntu.md",
     "03-Security-Operations-Fundamentals",
     "SOC101-main/SOC101-main/resources/wallpapers",
     "SOC101-main/SOC101-main/resources/install/install.sh",
@@ -263,7 +264,6 @@
     "SOC101-main/SOC101-main/course_files/06_Digital_Forensics.zip",
     "SOC101-main/SOC101-main/course_files/03_Endpoint_Security.zip",
     "SOC101-main/SOC101-main/README.md",
-    "02-Lab Setup/Installing Ubuntu.md",
     "01-Introduction/Prerequisites and Course Resources.md",
     "Welcome.md"
   ]
